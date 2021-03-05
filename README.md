@@ -1,5 +1,5 @@
- ![ Alt text](exercitai4.gif) / ! [](exercitai4.gif)
-
+ ![ Alt text](exercitai4.gif)
+ 
 # projeto-react-next-exercitai
 <h3>Aplicação com objetivo de incentivar o usuário a se exercitar ganhando level a cada etapa completada</h3>
 
@@ -23,4 +23,3 @@ Fonte: https://react-native.rocketseat.dev/android/windows
 <h4>3. VSCODE</h4>
 <p>Para abrir o terminal no Visual Studio Segure cntrl + ' e digite: 'yarn dev' para iniciar o projeto.
 Em seu navegador digite localhost:3000 para visualizar a aplicação. Enjoy!</p>
-
