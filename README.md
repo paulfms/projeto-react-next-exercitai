@@ -1,7 +1,8 @@
+ # Projeto React Exercitai
+ <h3>Aplicação com objetivo de incentivar o usuário a se exercitar ganhando level a cada etapa completada</h3>
+ 
  ![ Alt text](exercitai4.gif)
  
-# projeto-react-next-exercitai
-<h3>Aplicação com objetivo de incentivar o usuário a se exercitar ganhando level a cada etapa completada</h3>
 
 Link do app: https://exercitai.vercel.app/
 
